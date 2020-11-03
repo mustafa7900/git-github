@@ -1,2 +1,2 @@
 # git-github
-what is git
+this is for tutorial purpose
