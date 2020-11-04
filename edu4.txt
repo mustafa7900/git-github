@@ -1,4 +1,2 @@
 my branch file 1st 
-
-
 modified in firstbranch
